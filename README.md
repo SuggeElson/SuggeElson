@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SuggeElson
-- 👀 I’m interested in Nodejs, Vuejs and Reactjs
-- 🌱 I’m currently learning : Reactjs
 - 📫 Reach me at telegram : @SuggeElson
 
 <!---
